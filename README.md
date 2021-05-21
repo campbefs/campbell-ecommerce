@@ -7,7 +7,7 @@
     - DotEnv is used to managing local environmental variables
 
 
-Video walkthrough of the application can be found at:
+Video walkthrough of the application can be found at: https://drive.google.com/file/d/1oqJ0sxkrwVefbm--qk6wkm6dl5lMVMny/view
 
 Screenshot:
 
